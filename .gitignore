@@ -1,0 +1,16 @@
+# Secrets and credentials
+.env
+*.env
+*.key
+*.pem
+*.ppk
+*.conf
+*.ovpn
+*password*
+*token*
+*secret*
+
+# Logs, local data and OS files
+*.log
+.DS_Store
+Thumbs.db
