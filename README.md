@@ -1,6 +1,6 @@
 # Self-Hosted VPN Infrastructure & Protocol Experimentation
 
-> **Status: inactive, historical project.** The VPS subscription expired on March 16, 2025. This repository documents what I built, tested and learned. It is not a running service or a verified reproducible deployment.
+
 
 ## Overview
 
