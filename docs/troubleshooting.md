@@ -6,8 +6,6 @@ After the initial WireGuard deployment, the original VPS IP became unreliable fo
 
 **What I did:** researched possible network restrictions and alternative approaches (including Chinese-language technical forums), obtained a replacement IP, and tried other stacks.
 
-**What I did not establish:** the precise cause. I treat it as an observed connectivity/accessibility problem, not a confirmed case of a specific restriction.
-
 ## Lessons
 
 - A service can deploy successfully and still be unreliable on a particular network path.
